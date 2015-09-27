@@ -1,2 +1,2 @@
 # BhConvertingWebVttToSrt
-User this app for format subtitle's WebVtt to Srt
+User this app for format subtitles's WebVtt to Srt
