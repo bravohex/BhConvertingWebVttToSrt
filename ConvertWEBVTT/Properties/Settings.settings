@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConvertWEBVTT.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SaveToValue" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Ext" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/captions?f=webvtt&amp;l=en</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
